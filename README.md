@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/MMRSheikh2001?label=Followers&style=social" alt="followers" />
 </p>
 
-
+---
 
 ### 👨‍💻 About Me
 
@@ -93,7 +93,7 @@ A complete job marketplace platform built three times across three stacks, all s
 
 ### 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh%20.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh.pdf)
 
 ---
 
@@ -102,6 +102,7 @@ A complete job marketplace platform built three times across three stacks, all s
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahbubur-rahman-sheikh-417086319/)
 [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PT1dHIDeLg/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mahabub.sheikh2001@gmail.com)
+
 ---
 
 <p align="center">
