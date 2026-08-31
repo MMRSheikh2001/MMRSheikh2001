@@ -99,7 +99,7 @@ A complete job marketplace platform built three times across three stacks, all s
 
 ### 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh%20.pdf)
 
 ---
 
