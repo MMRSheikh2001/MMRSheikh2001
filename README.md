@@ -5,13 +5,7 @@
   <img src="https://img.shields.io/github/followers/MMRSheikh2001?label=Followers&style=social" alt="followers" />
 </p>
 
----
 
-### 🐍 My GitHub Contribution Snake
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/MMRSheikh2001/MMRSheikh2001/output/github-contribution-grid-snake.svg)
-
----
 
 ### 👨‍💻 About Me
 
