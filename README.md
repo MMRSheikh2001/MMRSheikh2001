@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Completed training in **Web & Mobile App Development (Spring Boot, Android & Flutter)** under the IDB-BISEW IT Scholarship Project at CCSL
+- 🎓 Currently training in **Web & Mobile App Development (Spring Boot, Android & Flutter)** under the IDB-BISEW IT Scholarship Project at CCSL
 - 🏗️ Built **WorkBridge** — a full-stack job marketplace & freelance platform with Web (Angular), native Android, and Flutter clients sharing one Spring Boot backend
 - ☕ Focused on **Java, Spring Boot, Spring Security & JWT** for backend development
 - 📱 Building cross-platform mobile apps with **Flutter** and native **Android (Java)**
@@ -34,7 +34,7 @@ A complete job marketplace platform built three times across three stacks, all s
 - PDF/Excel export
 - Companion native Android app + Flutter app (Android, iOS, Web) sharing the same backend
 
-🔗 [View Repository](https://github.com/MMRSheikh2001/JobPortal_Freelancing_Project)
+🔗 [View Repository](https://github.com/MMRSheikh2001/JobPortal_Freelancing_Project) &nbsp;|&nbsp; ▶️ [Watch Demo Video](https://www.youtube.com/watch?v=yzHAcHdAU7k)
 
 ---
 
@@ -93,7 +93,7 @@ A complete job marketplace platform built three times across three stacks, all s
 
 ### 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh%20.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/MMRSheikh2001/MMRSheikh2001/blob/main/CV_of_MD_Mahbubur_Rahman_Sheikh.pdf)
 
 ---
 
@@ -101,6 +101,7 @@ A complete job marketplace platform built three times across three stacks, all s
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahbubur-rahman-sheikh-417086319/)
 [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PT1dHIDeLg/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=yzHAcHdAU7k)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mahabub.sheikh2001@gmail.com)
 
 ---
