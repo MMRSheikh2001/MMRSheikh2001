@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently training in **Web & Mobile App Development (Spring Boot, Android & Flutter)** under the IDB-BISEW IT Scholarship Project at CCSL
+- 🎓 Completed training in **Web & Mobile App Development (Spring Boot, Android & Flutter)** under the IDB-BISEW IT Scholarship Project at CCSL
 - 🏗️ Built **WorkBridge** — a full-stack job marketplace & freelance platform with Web (Angular), native Android, and Flutter clients sharing one Spring Boot backend
 - ☕ Focused on **Java, Spring Boot, Spring Security & JWT** for backend development
 - 📱 Building cross-platform mobile apps with **Flutter** and native **Android (Java)**
